@@ -1,0 +1,5 @@
+2026-08-23 14:23:01 ERROR Connection timeout to db-primary
+2026-08-23 14:23:04 INFO Request handled in 42ms
+2026-08-23 14:24:11 WARN Retry attempt 2 of 3
+2026-08-23 14:25:02 ERROR Connection timeout to db-primary
+2026-08-23 14:25:40 ERROR Invalid token for user 8842
